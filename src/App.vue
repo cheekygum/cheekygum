@@ -258,8 +258,10 @@
         <li>cheekygum.eth</li>
         <li>gumgirl.eth</li>
       </ul>
-      <a href="mailto:contact@cheekygum.space" class="text-purple-light">contact@cheekygum.space</a>
-      <a href="https://github.com/cheekygum/gumboy" target="_blank" rel="noopener noreferrer" class="text-purple-light">GitHub</a>
+      <ul class="flex items-center justify-center flex-wrap gap-y-2 gap-x-4 text-purple-light">
+        <li><a href="mailto:contact@cheekygum.space" class="text-purple-light">contact@cheekygum.space</a></li>
+        <li><a href="https://github.com/cheekygum/gumboy" target="_blank" rel="noopener noreferrer" class="text-purple-light">GitHub</a></li>
+      </ul>
     </div>
   </footer>
 </template>
