@@ -216,6 +216,7 @@
                 <li>✔️ Airdrop 2%</li>
                 <li>✔️ Charity 3%</li>
                 <li>✔️ Creating a Pool on Uniswap 74%</li>
+                <li>✔️ Blocking all LP team tokens for 6 months</li>
                 <li>2000+ holders = Telegram Group</li>
                 <li>5000+ holders = Discord</li>
               </ul>
@@ -255,8 +256,10 @@
         <li>$gumboy.eth</li>
         <li>cheekygum.space</li>
         <li>cheekygum.eth</li>
+        <li>gumgirl.eth</li>
       </ul>
       <a href="mailto:contact@cheekygum.space" class="text-purple-light">contact@cheekygum.space</a>
+      <a href="https://github.com/cheekygum/gumboy" target="_blank" rel="noopener noreferrer" class="text-purple-light">GitHub</a>
     </div>
   </footer>
 </template>
