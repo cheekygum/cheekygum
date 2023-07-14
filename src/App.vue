@@ -217,7 +217,7 @@
                 <li>✔️ Charity 3%</li>
                 <li>✔️ Creating a Pool on Uniswap 74%</li>
                 <li>✔️ Blocking all LP team tokens for 6 months</li>
-                <li>2000+ holders = Telegram Group</li>
+                <li>✔️ 150+ holders = Telegram Group</li>
                 <li>5000+ holders = Discord</li>
               </ul>
             </div>

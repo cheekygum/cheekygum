@@ -31,7 +31,7 @@
         <a href="https://twitter.com/CheekyGumBoy" target="_blank" rel="noopener noreferrer" class="text-lg xl:text-xl font-semibold p-4 rounded-lg bg-purple-light hover:opacity-80 transition-opacity text-violet">
           <TwitterLogo />
         </a>
-        <a href="https://t.me/CheekyGumBoyCoin" target="_blank" rel="noopener noreferrer" class="text-lg xl:text-xl font-semibold p-4 rounded-lg bg-purple-light hover:opacity-80 transition-opacity text-violet">
+        <a href="https://t.me/CheekyGum" target="_blank" rel="noopener noreferrer" class="text-lg xl:text-xl font-semibold p-4 rounded-lg bg-purple-light hover:opacity-80 transition-opacity text-violet">
           <TelegramLogo />
         </a>
       </div>
