@@ -208,7 +208,7 @@
           <h2 class="text-3xl lg:text-5xl font-bold font-ravie uppercase text-violet mb-8" style="text-shadow: -4px 2px 2px #ffbded;">Cheeky roadmap</h2>
           <p class="text-xl lg:text-2xl text-purple-light">We have a fundamentally new model of the Meme project that will connect the virtual world with the real one. And your favorite project can boast of this? Are you tired of projects that use other people's KNOWN and Reputable names that do not belong to them? Join those who are the future. We are writing history NOW!!!</p>
         </div>
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 lg:gap-9 justify-center">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-4 lg:gap-9 justify-center mb-10">
           <div class="bg-violet text-purple-light px-8 py-6 rounded-xl">
             <h4 class="text-xl lg:text-2xl font-bold mb-5">Phase 1</h4>
             <div class="ps-5">
@@ -242,6 +242,10 @@
               </ul>
             </div>
           </div>
+        </div>
+        <div class="flex flex-col gap-10 lg:flex-row items-center lg:w-[60%]">
+          <img src="/GumBoy_Gif.gif" loading="lazy" class="ratio-square lg:w-2/4">
+          <h1 class="text-3xl lg:text-5xl font-bold font-ravie uppercase text-violet mb-8" style="text-shadow: -4px 2px 2px #ffbded;">Production of chewing gum under the brand GumBoy</h1>
         </div>
       </div>
     </section>
